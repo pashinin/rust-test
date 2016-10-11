@@ -8,5 +8,12 @@ authors = ["Sergey Pashinin <sergeypashinin@gmail.com>"]
 # name = "rusted"
 # path = "src/main.rs"
 
-# [dependencies]
+[dependencies]
+glium = "*"
+# conrod = "*"
+# find_folder = "*"
+# piston_window = "*"
 # cpython = { git = "https://github.com/dgrunwald/rust-cpython.git" }
+
+# [dependencies.kiss-ui]
+# git = "https://github.com/cybergeek94/kiss-ui"

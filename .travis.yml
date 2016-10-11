@@ -6,7 +6,8 @@ rust:
 matrix:
   allow_failures:
     - rust: nightly
-
+notifications:
+  email: false
 # script: make all
 # cargo build --verbose
 # cargo test --verbose

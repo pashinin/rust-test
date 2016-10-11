@@ -1,0 +1,2 @@
+all:
+	rustc hello.rs

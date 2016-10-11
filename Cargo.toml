@@ -4,9 +4,9 @@ version = "0.1.0"
 authors = ["Sergey Pashinin <sergeypashinin@gmail.com>"]
 
 
-[[bin]]
-name = "rusted"
-path = "src/main.rs"
+# [[bin]]
+# name = "rusted"
+# path = "src/main.rs"
 
 # [dependencies]
 # cpython = { git = "https://github.com/dgrunwald/rust-cpython.git" }
